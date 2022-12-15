@@ -30,7 +30,7 @@ public class Aufgabe01 {
 				 sum += 3 + 0;
 				 break;
 			 case "B X":
-				 sum += 1 + 0;
+				 sum += 1 + 0;	
 				 break;
 			 case "B Y":
 				 sum += 2 + 3;
