@@ -35,6 +35,7 @@ public class Aufgabe02 {
 			}
 			prioritySum += calcPriority(badge);
 		}
+		sc.close();
 		return prioritySum;
 	}
 	
